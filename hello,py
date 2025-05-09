@@ -1,0 +1,16 @@
+# baatirobaa
+url
+Project Title: Hello, World! Python Project
+
+## Short Description
+This project is a simple "Hello, World!" program written in Python. It demonstrates the basic setup of a Python project and how to run it.
+
+## Objectives of the Project
+*   To create a basic Python script.
+*   To demonstrate how to run a Python script from the command line.
+*   To set up a basic project structure on GitHub.
+
+## List of Tools and Libraries Used
+*   Python 3.x (No external libraries are used in this simple example)
+*   A text editor or IDE (e.g., VS Code, Sublime Text, etc.)
+*   Git (for version control and GitHub interaction)
